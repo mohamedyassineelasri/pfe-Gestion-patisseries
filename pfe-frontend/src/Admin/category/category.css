@@ -1,0 +1,16 @@
+/* category.css */
+
+
+#category-list-containe {
+  margin-top: 60px;
+  margin-left: 400px;
+  padding: 20px 30px;
+  transition: all 0.3s;
+  
+}
+
+@media screen and (max-width: 1199) {
+  #category-list-containe {
+      padding: 20px;
+  }
+}
